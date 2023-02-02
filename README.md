@@ -5,14 +5,12 @@
 
 A Passionate developer with strong problem-solving abilities, proficient in JavaScript, React.js, and Node.js, keen to learn new technologies and frameworks
 
-
-
-- 🔭 I’m currently working on Next.com | Apple Clone 
 - 🌱 I’m currently learning MERN Stack 
 - 👯 I’m looking to collaborate on Web Development Projects 
-- 👨‍💻 All of my projects are available at [https://shagunsharma6677.github.io/](https://shagunsharma6677.github.io/)
+- 📫 How to reach me: shagunsharma6677@gmail.com
+- 👨‍💻 All of my projects are available at [https://github.com/shagunsharma6677](https://github.com/shagunsharma6677?tab=repositories)
+- 🌐 Portfolio [https://shagunsharma6677.github.io/](https://shagunsharma6677.github.io/)  
 - 💬 Ask me about Frondend & Backend 
-- 📫 How to reach me: shagunsharma6677@gmail.com 
 
 <p align="center">
   <a href="https://skillicons.dev">
