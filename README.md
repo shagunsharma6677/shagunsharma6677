@@ -3,7 +3,7 @@
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white) 
 
-Passionate developer with strong problem-solving abilities, proficient in JavaScript, React.js, and Node.js, keen to learn new technologies and frameworks
+A Passionate developer with strong problem-solving abilities, proficient in JavaScript, React.js, and Node.js, keen to learn new technologies and frameworks
 
 
 
