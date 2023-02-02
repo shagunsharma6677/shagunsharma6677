@@ -30,8 +30,6 @@ A Passionate developer with strong problem-solving abilities, proficient in Java
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shagunsharma6677&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/shagunsharma6677)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=shagunsharma6677)  
 
 
