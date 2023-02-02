@@ -6,6 +6,7 @@
 
 
 
+
 Passionate developer with strong problem-solving abilities, proficient in JavaScript, React.js, and Node.js, keen to learn new technologies and frameworks
 
 Skills: VUE JS / REACT / JS / HTML / CSS
