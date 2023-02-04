@@ -10,7 +10,7 @@ A Passionate developer with strong problem-solving abilities, proficient in Java
 - 🌱 I’m currently learning MERN Stack 
 - 👯 I’m looking to collaborate on Web Development Projects 
 - 📫 How to reach me: shagunsharma6677@gmail.com
-- 👨‍💻 All of my projects are available at [https://github.com/shagunsharma6677](https://github.com/shagunsharma6677?tab=repositories)
+- 👨‍💻 All of my projects are available at https://github.com/shagunsharma6677
 - 🌐 Portfolio [https://shagunsharma6677.github.io/](https://shagunsharma6677.github.io/)  
 - 💬 Ask me about Frondend & Backend 
 
