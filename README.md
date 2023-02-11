@@ -1,5 +1,5 @@
-# <p align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> It's me, Shagun Sharma</p>
-
+<p align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> It's me, Shagun Sharma</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=800&color=28F765&width=480&lines=A+Full+Stack+Web+Developer)](https://git.io/typing-svg)
@@ -58,15 +58,22 @@ A Passionate developer with strong problem-solving abilities, proficient in Java
 
 # 📊 GitHub Stats:
 
-![](https://github-profile-trophy.vercel.app/?username=shagunsharma6677&theme=discord&no-frame=true&no-bg=true&margin-w=4)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shagunsharma6677&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D) ![Shagun's GitHub stats](https://github-readme-stats.vercel.app/api?username=shagunsharma6677&theme=chartreuse-dark&hide_border=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shagunsharma6677&layout=compact&hide_border=true&theme=chartreuse-dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shagunsharma6677&theme=radical) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shagunsharma6677&theme=radical&utcOffset=8) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shagunsharma6677&theme=radical) 
+  <img src="https://github-profile-trophy.vercel.app/?username=shagunsharma6677&theme=radical" />
 
-<hr/>
+
+
+
+<!-- ![](https://github-profile-trophy.vercel.app/?username=shagunsharma6677&theme=radical)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shagunsharma6677&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D) ![Shagun's GitHub stats](https://github-readme-stats.vercel.app/api?username=shagunsharma6677&theme=chartreuse-dark&hide_border=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shagunsharma6677&layout=compact&hide_border=true&theme=chartreuse-dark) -->
+
 # ✍️ Random Dev Quote
 
 <div align="center">
 
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&hide_border=true&show_icons=true)
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&hide_border=true&show_icons=true)
 
 </div>
 <hr/>
