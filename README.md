@@ -2,7 +2,7 @@
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/> -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=800&color=28F765&width=480&lines=A+Full+Stack+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=800&color=28F765&width=480&lines=Aspiring+Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,6 +24,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=shagunsharma6677)
 
 # 💫 About Me:
+
 
 A Passionate developer with strong problem-solving abilities, proficient in JavaScript, React.js, and Node.js, keen to learn new technologies and frameworks
 - 🌱 I’m currently learning MERN Stack 
