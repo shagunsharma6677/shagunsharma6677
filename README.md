@@ -20,6 +20,7 @@
   
 
 </div>
+
 # 💫 About Me:
 A Passionate developer with strong problem-solving abilities, proficient in JavaScript, React.js, and Node.js, keen to learn new technologies and frameworks
 - 🌱 I’m currently learning MERN Stack 
