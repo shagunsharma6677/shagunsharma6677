@@ -21,7 +21,7 @@
 
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=shagunsharma6677)
+
 
 # 💫 About Me:
 
@@ -34,7 +34,7 @@ A Passionate developer with strong problem-solving abilities, proficient in Java
 - 🌐 Portfolio [https://shagunsharma6677.github.io/](https://shagunsharma6677.github.io/)  
 - 💬 Ask me about Frondend & Backend 
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjS8qjg0vv8AhXk1TgGHd8JCpkQFnoECAsQAQ&url=http%3A%2F%2Fgmail.com%2F&usg=AOvVaw1IY5DlHv7sVJiBpcgaXCjz) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shagun-s-84b0a6238/) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/i_nicCk__) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjS8qjg0vv8AhXk1TgGHd8JCpkQFnoECAsQAQ&url=http%3A%2F%2Fgmail.com%2F&usg=AOvVaw1IY5DlHv7sVJiBpcgaXCjz) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shagun-s-84b0a6238/) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/i_nicCk__) ![Profile Views](https://komarev.com/ghpvc/?username=shagunsharma6677)
 
 
 # 💻 Tech Stack:
