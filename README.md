@@ -1,8 +1,28 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=700&height=100&lines=Hi+there+%F0%9F%91%8B%2C++I'm+Shagun+Sharma;A+Aspiring+Full+Stack+Web+Developer" alt="Typing SVG" /></a>
-![I am Aspiring Full Stack Developer](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
-![Profile views](https://gpvc.arturio.dev/shagunsharma6677)  
+# <p align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> It's me, Shagun Sharma</p>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjS8qjg0vv8AhXk1TgGHd8JCpkQFnoECAsQAQ&url=http%3A%2F%2Fgmail.com%2F&usg=AOvVaw1IY5DlHv7sVJiBpcgaXCjz) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shagun-s-84b0a6238/) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/i_nicCk__) 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=800&color=28F765&width=480&lines=A+Full+Stack+Web+Developer)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+| Q                           | A                                        |
+| --------------------------- | ---------------------------------------- |
+| **My Machine**              | `Del Latitide - i5`                |
+| **Editor**                  | `Visual Studio Code`                     |
+| **Platforms I Develop For** | `Web`                       |
+| **Familier With**           | `React, HTML5, CSS3`,MongoBD,ExpressJS |
+| **Languages I Learning**    | `Javascript, TypeScript`                                |
+| **2023 Learning Goal**      | `React Native, UX/UI, App Development`                                |
+| **Skills**                  | `Web Application Development,Problem Solving`     |
+  
+
+
+</div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=shagunsharma6677)
 
 # 💫 About Me:
 
@@ -14,22 +34,39 @@ A Passionate developer with strong problem-solving abilities, proficient in Java
 - 🌐 Portfolio [https://shagunsharma6677.github.io/](https://shagunsharma6677.github.io/)  
 - 💬 Ask me about Frondend & Backend 
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjS8qjg0vv8AhXk1TgGHd8JCpkQFnoECAsQAQ&url=http%3A%2F%2Fgmail.com%2F&usg=AOvVaw1IY5DlHv7sVJiBpcgaXCjz) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shagun-s-84b0a6238/) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/i_nicCk__) 
+
+
 # 💻 Tech Stack:
+
+### 🧩Languages, Libraries & Frameworks
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,bootstrap,react,redux,tailwind,vercel,vite,vscode,codepen,css,express,figma,github,heroku,js,materialui,mongodb,netlify,nodejs," />
+    <img src="https://skillicons.dev/icons?i=html,bootstrap,react,redux,tailwind,css,express,js,materialui,mongodb,babel,chakra" />
   </a>
 </p>
 
+### 🧩Tools & Services
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vercel,vite,vscode,github,heroku,firebase,netlify,nodejs,postman" />
+  </a>
+</p>
+
+
 # 📊 GitHub Stats:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shagunsharma6677)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?username=shagunsharma6677&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shagunsharma6677&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D) ![Shagun's GitHub stats](https://github-readme-stats.vercel.app/api?username=shagunsharma6677&theme=chartreuse-dark&hide_border=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shagunsharma6677&layout=compact&hide_border=true&theme=chartreuse-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shagunsharma6677)](https://github.com/anuraghazra/github-readme-stats)
+<hr/>
+# ✍️ Random Dev Quote
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shagunsharma6677&show_icons=true&count_private=true)  
+<div align="center">
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=shagunsharma6677)  
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&hide_border=true&show_icons=true)
 
-
+</div>
+<hr/>
