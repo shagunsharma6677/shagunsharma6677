@@ -10,12 +10,12 @@
 
 | Q                           | A                                        |
 | --------------------------- | ---------------------------------------- |
-| **My Machine**              | `Del Latitide - i5`                |
+| **My Machine**              | `Dell Latitide - i5`                |
 | **Editor**                  | `Visual Studio Code`                     |
 | **Platforms I Develop For** | `Web`                       |
 | **Familier With**           | `React, HTML5, CSS3,MongoBD,ExpressJS` |
 | **Languages I Learning**    | `Javascript, TypeScript`                   |
-| **2023 Learning Goal**      | `React Native, UX/UI, App Development`   |
+| **2023 Learning Goal**      | `Java,React Native, App Development`   |
 | **Skills**                  | `Web Application Development,Problem Solving` |
   
 
