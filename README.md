@@ -10,7 +10,7 @@
 
 | Q                           | A                                        |
 | --------------------------- | ---------------------------------------- |
-| **My Machine**              | `Dell Latitide - i5`                |
+| **My Machine**              | `Dell Latitude - i5`                |
 | **Editor**                  | `Visual Studio Code`                     |
 | **Platforms I Develop For** | `Web`                       |
 | **Familier With**           | `React, HTML5, CSS3,MongoBD,ExpressJS` |
@@ -20,12 +20,7 @@
   
 
 </div>
-
-
-
 # 💫 About Me:
-
-
 A Passionate developer with strong problem-solving abilities, proficient in JavaScript, React.js, and Node.js, keen to learn new technologies and frameworks
 - 🌱 I’m currently learning MERN Stack 
 - 👯 I’m looking to collaborate on Web Development Projects 
@@ -61,13 +56,7 @@ A Passionate developer with strong problem-solving abilities, proficient in Java
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shagunsharma6677&theme=radical) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shagunsharma6677&theme=radical&utcOffset=8) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shagunsharma6677&theme=radical) 
-  <img src="https://github-profile-trophy.vercel.app/?username=shagunsharma6677&theme=radical" />
-
-
-
-
-<!-- ![](https://github-profile-trophy.vercel.app/?username=shagunsharma6677&theme=radical)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shagunsharma6677&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D) ![Shagun's GitHub stats](https://github-readme-stats.vercel.app/api?username=shagunsharma6677&theme=chartreuse-dark&hide_border=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shagunsharma6677&layout=compact&hide_border=true&theme=chartreuse-dark) -->
+ <img src="https://github-profile-trophy.vercel.app/?username=shagunsharma6677&theme=radical" />
 
 # ✍️ Random Dev Quote
 
