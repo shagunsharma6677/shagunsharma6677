@@ -53,11 +53,22 @@ A Passionate developer with strong problem-solving abilities, proficient in Java
 
 
 # 📊 GitHub Stats:
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shagunsharma6677&theme=radical) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shagunsharma6677&theme=radical&utcOffset=8) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shagunsharma6677&theme=radical) 
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shagunsharma6677&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shagunsharma6677&theme=radical)  -->
+<table>
+  <tr>
+    <td valign="top">
+      <a href="http://www.github.com/jainex17"><img src="https://github-readme-stats.vercel.app/api?username=shagunsharma6677&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jainex's GitHub stats" /></a>
+    </td>
+    <td valign="top">  
+      <a href="http://www.github.com/jainex17"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shagunsharma6677&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    </td>
+  </tr>
+</table>
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shagunsharma6677&theme=radical&utcOffset=8) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shagunsharma6677&theme=radical)  -->
  <img src="https://github-profile-trophy.vercel.app/?username=shagunsharma6677&theme=radical" />
+
 
 # ✍️ Random Dev Quote
 
