@@ -67,7 +67,7 @@ A Passionate developer with strong problem-solving abilities, proficient in Java
 </table>
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shagunsharma6677&theme=radical&utcOffset=8) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shagunsharma6677&theme=radical)  -->
- <img src="https://github-profile-trophy.vercel.app/?username=shagunsharma6677&theme=radical" />
+<!--  <img src="https://github-profile-trophy.vercel.app/?username=shagunsharma6677&theme=nord" /> -->
 
 
 # ✍️ Random Dev Quote
