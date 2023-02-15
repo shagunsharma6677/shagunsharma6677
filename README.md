@@ -13,7 +13,7 @@
 
 
 # 💫 About Me:
-A Passionate developer with strong problem-solving abilities, proficient in JavaScript, React.js, and Node.js, keen to learn new technologies and frameworks
+A Passionate developer from India
 - 🌱 I’m currently learning MERN Stack 
 - 👯 I’m looking to collaborate on Web Development Projects 
 - 📫 How to reach me: shagunsharma6677@gmail.com
