@@ -13,13 +13,13 @@
 
 | Q                           | A                                        |
 | --------------------------- | ---------------------------------------- |
-| **My Machine**              | `Dell Latitude - i5`                |
+| **My Machine**              | `Dell Latitude - Core i3`                |
 | **Editor**                  | `Visual Studio Code`                     |
 | **Platforms I Develop For** | `Web`                       |
-| **Familier With**           | `React, HTML5, CSS3,MongoBD,ExpressJS` |
+| **Familier With**           | `React, TypeScript, MongoBD, ExpressJS` |
 | **Languages I Learning**    | `Javascript, TypeScript`                   |
-| **2023 Learning Goal**      | `Java,React Native, Andriod Dev, CEH`   |
-| **Skills**                  | `Web Application Development,Problem Solving` |
+| **2023 Learning Goal**      | `Java, React Native, Andriod Dev, CEH`   |
+| **Skills**                  | `Web Application Development, Problem Solving` |
   
 
 </div>
