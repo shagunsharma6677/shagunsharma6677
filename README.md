@@ -18,7 +18,7 @@
 | **Platforms I Develop For** | `Web`                       |
 | **Familier With**           | `React, HTML5, CSS3,MongoBD,ExpressJS` |
 | **Languages I Learning**    | `Javascript, TypeScript`                   |
-| **2023 Learning Goal**      | `Java,React Native, App Development`   |
+| **2023 Learning Goal**      | `Java,React Native, Andriod Dev, CEH`   |
 | **Skills**                  | `Web Application Development,Problem Solving` |
   
 
