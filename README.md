@@ -1,4 +1,3 @@
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikgDnsiJJN6C3UdIN6-JKOWNcUhJc4byo8hxKBmwfBMST6CzGdm5YEs5bvmYGYO9-C-1XLslf2uwOgDr6BVKWFgIBaLbh6kVvIKokloUsLOTWNoa_nPmrQKGsRr9Bwdc1j_s7lar5Oal3sFOEa71kkoaM90C7yz-ABbxu7PTtel5htH6yl42NlOojH/s3845/Powerpoint_Thinking_Animated_Gif_Transparent_63.gif"/> 
 
 # <p align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> It's me, Shagun Sharma</p>
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/> -->
@@ -8,6 +7,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=800&color=28F765&width=480&lines=A+Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
 </div>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikgDnsiJJN6C3UdIN6-JKOWNcUhJc4byo8hxKBmwfBMST6CzGdm5YEs5bvmYGYO9-C-1XLslf2uwOgDr6BVKWFgIBaLbh6kVvIKokloUsLOTWNoa_nPmrQKGsRr9Bwdc1j_s7lar5Oal3sFOEa71kkoaM90C7yz-ABbxu7PTtel5htH6yl42NlOojH/s3845/Powerpoint_Thinking_Animated_Gif_Transparent_63.gif"/> 
+
 
 <div align="center">
 
