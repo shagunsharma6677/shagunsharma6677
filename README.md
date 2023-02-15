@@ -10,6 +10,18 @@
 <img src="https://www.careerguide.com/career/wp-content/uploads/2020/03/giphy-7.gif"/> 
 
 
+
+
+# 💫 About Me:
+A Passionate developer with strong problem-solving abilities, proficient in JavaScript, React.js, and Node.js, keen to learn new technologies and frameworks
+- 🌱 I’m currently learning MERN Stack 
+- 👯 I’m looking to collaborate on Web Development Projects 
+- 📫 How to reach me: shagunsharma6677@gmail.com
+- 👨‍💻 All of my projects are available at https://github.com/shagunsharma6677
+- 🌐 Portfolio [https://shagunsharma6677.github.io/](https://shagunsharma6677.github.io/)  
+- 💬 Ask me about Frondend & Backend 
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjS8qjg0vv8AhXk1TgGHd8JCpkQFnoECAsQAQ&url=http%3A%2F%2Fgmail.com%2F&usg=AOvVaw1IY5DlHv7sVJiBpcgaXCjz) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shagun-s-84b0a6238/) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/i_nicCk__) ![Profile Views](https://komarev.com/ghpvc/?username=shagunsharma6677)
 <div align="center">
 
 | Q                           | A                                        |
@@ -24,18 +36,6 @@
   
 
 </div>
-
-# 💫 About Me:
-A Passionate developer with strong problem-solving abilities, proficient in JavaScript, React.js, and Node.js, keen to learn new technologies and frameworks
-- 🌱 I’m currently learning MERN Stack 
-- 👯 I’m looking to collaborate on Web Development Projects 
-- 📫 How to reach me: shagunsharma6677@gmail.com
-- 👨‍💻 All of my projects are available at https://github.com/shagunsharma6677
-- 🌐 Portfolio [https://shagunsharma6677.github.io/](https://shagunsharma6677.github.io/)  
-- 💬 Ask me about Frondend & Backend 
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjS8qjg0vv8AhXk1TgGHd8JCpkQFnoECAsQAQ&url=http%3A%2F%2Fgmail.com%2F&usg=AOvVaw1IY5DlHv7sVJiBpcgaXCjz) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shagun-s-84b0a6238/) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/i_nicCk__) ![Profile Views](https://komarev.com/ghpvc/?username=shagunsharma6677)
-
 
 # 💻 Tech Stack:
 
