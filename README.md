@@ -31,7 +31,7 @@ A Passionate developer from India
 | **Platforms I Develop For** | `Web`                       |
 | **Familier With**           | `React, TypeScript, MongoBD, ExpressJS` |
 | **Languages I Learning**    | `Javascript, TypeScript`                   |
-| **2023 Learning Goal**      | `Java, React Native, Andriod Dev, CEH`   |
+| **2023 Learning Goal**      | `Java, React Native, Andriod Dev, UX/UI`   |
 | **Skills**                  | `Web Application Development, Problem Solving` |
   
 
