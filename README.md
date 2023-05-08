@@ -7,10 +7,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=800&color=28F765&width=480&lines=A+Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
 </div>
-<img src="https://www.careerguide.com/career/wp-content/uploads/2020/03/giphy-7.gif"/> 
 
-
-
+![1606004646141](https://user-images.githubusercontent.com/108183568/236877254-0a25c439-a03e-4741-b608-9ee96fcd592f.jpg)
 
 # 💫 About Me:
 A Passionate developer from India
