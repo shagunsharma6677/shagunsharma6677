@@ -10,7 +10,7 @@
 </div>
 
 # 💫 About Me:
-A Passionate developer from India
+A passionate Full Stack Web Developer with strong problem-solving abilities, proficient in React Js, Mongo DB, Express Js Next Js, Typescript and Chakra Ui, keen to learn new technologies and frameworks. Looking forward to start career in a reputed firm driven by technology.
 - 🌱 I’m currently learning MERN Stack 
 - 👯 I’m looking to collaborate on Web Development Projects 
 - 📫 How to reach me: shagunsharma6677@gmail.com
