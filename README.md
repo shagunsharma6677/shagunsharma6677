@@ -57,9 +57,7 @@ A passionate Full Stack Web Developer with strong problem-solving abilities, pro
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shagunsharma6677&theme=dark&show_icons=true)
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shagunsharma6677&theme=dark&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shagunsharma6677&theme=highcontrast&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shagunsharma6677&theme=dark&show_icons=true)
 <br/>
