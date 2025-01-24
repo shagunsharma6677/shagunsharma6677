@@ -10,24 +10,24 @@
 </div>
 
 # 💫 About Me:
-A passionate Full Stack Web Developer with strong problem-solving abilities, proficient in React Js, Mongo DB, Express Js Next Js, Typescript and Chakra Ui, keen to learn new technologies and frameworks. Looking forward to start career in a reputed firm driven by technology.
-- 🌱 I’m currently learning MERN Stack 
-- 👯 I’m looking to collaborate on Web Development Projects 
+A passionate SDE-2 currently working in Loti Ai, Seattle, USA with strong problem-solving abilities, proficient in React Js, Mongo DB/PostgreSQL, Express Js, Docker, Redis, AWS, Turborepo, Next Js, Typescript and Shadcn, keen to learn new technologies and frameworks. Currenly focusing on open-source contributions.
+- 🌱 I’m currently learning Rust
+- 🛠️ Building my own Node.js framework & frontend library publically.
+- 📅 Completed 180+ days of #buildinpublic #PearnInPublic
 - 📫 How to reach me: shagunsharma6677@gmail.com
 - 👨‍💻 All of my projects are available at https://github.com/shagunsharma6677
-- 🌐 Portfolio [https://shagunsharma6677.github.io/](https://shagunsharma6677.github.io/)  
-- 💬 Ask me about Frondend & Backend 
+- 🌐 Portfolio [https://shagunsharma6677.github.io/](https://shagunsharma6677.github.io/) 
 
 <div align="left">
 
 | Q                           | A                                        |
 | --------------------------- | ---------------------------------------- |
-| **My Machine**              | `Dell Latitude - Core i3`                |
+| **My Machine**              | `Macbook m2`                |
 | **Editor**                  | `Visual Studio Code`                     |
 | **Platforms I Develop For** | `Web`                       |
-| **Familier With**           | `React, TypeScript, MongoBD, ExpressJS` |
-| **Languages I Learning**    | `Javascript, TypeScript`                   |
-| **2023 Learning Goal**      | `Java, React Native, Andriod Dev, UX/UI`   |
+| **Familier With**           | `React, TypeScript, AWS, Docker` |
+| **Languages I Learning**    | `Rust`                   |
+| **2023 Learning Goal**      | `React Native, Tauri, UX/UI`   |
 | **Skills**                  | `Web Application Development, Problem Solving` |
   
 
